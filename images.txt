@@ -1,2 +1,2 @@
 nginx
-comfyui-boot:cu121-megapak-20250317
+yanwk/comfyui-boot
